@@ -50,27 +50,4 @@ Sistema completo para consulta de CNPJs, análise tributária, enquadramento Sim
 | `historico_mudancas_empresa` | Histórico de alterações em empresas monitoradas |
 | `relatorios_gerados` | Relatórios salvos e compartilháveis |
 
-## 📊 Campos de Análise na Tabela `empresas`
 
-O sistema gera automaticamente diversos campos analíticos:
-
-```sql
--- Campos tributários
-regime_tributario_sugerido      -- 'simples_nacional', 'lucro_presumido', 'lucro_real'
-anexo_simples_sugerido          -- Anexo do Simples (I, II, III, IV, V, MEI)
-fator_r_calculado               -- Fator R para anexos III/V
-aliquota_simples_estimada       -- Alíquota efetiva estimada
-pode_optar_simples              -- Boolean: se pode optar pelo Simples
-
--- Campos ISS
-codigo_servico_iss_sugerido     -- Código do serviço na lista da LC 116
-item_lista_iss_sugerido         -- Item da lista (ex: 1.01, 1.02)
-aliquota_iss_estimada           -- Alíquota de ISS estimada
-
--- Campos Reforma Tributária (IBS/CBS)
-impacto_reforma_estimado        -- 'positivo', 'neutro', 'negativo'
-variacao_carga_estimada         -- Variação percentual estimada
-aliquota_ibs_estimada           -- Alíquota IBS estimada
-aliquota_cbs_estimada           -- Alíquota CBS estimada
-capacidade_credito              -- 'alta', 'media', 'baixa'
-recomendacoes_reforma           -- Recomendações textuais
