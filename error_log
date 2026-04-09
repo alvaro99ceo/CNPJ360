@@ -1,0 +1,319 @@
+[23-Mar-2026 16:52:55 America/Sao_Paulo] PHP Warning:  require_once(includes/CNPJ.php): Failed to open stream: No such file or directory in /home/kidiono2/public_html/cnpj360/consultar.php on line 2
+[23-Mar-2026 16:52:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/CNPJ.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kidiono2/public_html/cnpj360/consultar.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kidiono2/public_html/cnpj360/consultar.php on line 2
+[23-Mar-2026 16:54:00 America/Sao_Paulo] PHP Warning:  require_once(/home/kidiono2/public_html/cnpj360/includes/Database.php): Failed to open stream: No such file or directory in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 16:54:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kidiono2/public_html/cnpj360/includes/Database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php:2
+Stack trace:
+#0 /home/kidiono2/public_html/cnpj360/consultar.php(2): require_once()
+#1 {main}
+  thrown in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 16:54:42 America/Sao_Paulo] PHP Warning:  require_once(/home/kidiono2/public_html/cnpj360/includes/Database.php): Failed to open stream: No such file or directory in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 16:54:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kidiono2/public_html/cnpj360/includes/Database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php:2
+Stack trace:
+#0 /home/kidiono2/public_html/cnpj360/consultar.php(2): require_once()
+#1 {main}
+  thrown in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 17:31:08 America/Sao_Paulo] PHP Warning:  require_once(/home/kidiono2/public_html/cnpj360/includes/Database.php): Failed to open stream: No such file or directory in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 17:31:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kidiono2/public_html/cnpj360/includes/Database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php:2
+Stack trace:
+#0 /home/kidiono2/public_html/cnpj360/consultar.php(2): require_once()
+#1 {main}
+  thrown in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 17:31:42 America/Sao_Paulo] PHP Warning:  require_once(/home/kidiono2/public_html/cnpj360/includes/Database.php): Failed to open stream: No such file or directory in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 17:31:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kidiono2/public_html/cnpj360/includes/Database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php:2
+Stack trace:
+#0 /home/kidiono2/public_html/cnpj360/consultar.php(2): require_once()
+#1 {main}
+  thrown in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 17:31:42 America/Sao_Paulo] PHP Warning:  require_once(/home/kidiono2/public_html/cnpj360/includes/Database.php): Failed to open stream: No such file or directory in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 17:31:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kidiono2/public_html/cnpj360/includes/Database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php:2
+Stack trace:
+#0 /home/kidiono2/public_html/cnpj360/consultar.php(2): require_once()
+#1 {main}
+  thrown in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 17:34:33 America/Sao_Paulo] PHP Warning:  require_once(/home/kidiono2/public_html/cnpj360/includes/Database.php): Failed to open stream: No such file or directory in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 17:34:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kidiono2/public_html/cnpj360/includes/Database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php:2
+Stack trace:
+#0 /home/kidiono2/public_html/cnpj360/consultar.php(2): require_once()
+#1 {main}
+  thrown in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 17:34:36 America/Sao_Paulo] PHP Warning:  require_once(/home/kidiono2/public_html/cnpj360/includes/Database.php): Failed to open stream: No such file or directory in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 17:34:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kidiono2/public_html/cnpj360/includes/Database.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php:2
+Stack trace:
+#0 /home/kidiono2/public_html/cnpj360/consultar.php(2): require_once()
+#1 {main}
+  thrown in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 2
+[23-Mar-2026 17:49:17 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kidiono2_cnpj360`.`empresas`, CONSTRAINT `empresas_ibfk_1` FOREIGN KEY (`cnae_principal`) REFERENCES `cnaes` (`codigo`)) in /home/kidiono2/public_html/cnpj360/config/database.php:43
+Stack trace:
+#0 /home/kidiono2/public_html/cnpj360/config/database.php(43): PDOStatement->execute()
+#1 /home/kidiono2/public_html/cnpj360/includes/CNPJ.php(181): Database->execute()
+#2 /home/kidiono2/public_html/cnpj360/includes/CNPJ.php(203): CNPJ->salvarEmpresa()
+#3 /home/kidiono2/public_html/cnpj360/consultar.php(11): CNPJ->consultar()
+#4 {main}
+  thrown in /home/kidiono2/public_html/cnpj360/config/database.php on line 43
+[23-Mar-2026 17:56:00 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kidiono2_cnpj360`.`empresas`, CONSTRAINT `empresas_ibfk_1` FOREIGN KEY (`cnae_principal`) REFERENCES `cnaes` (`codigo`)) in /home/kidiono2/public_html/cnpj360/config/database.php:43
+Stack trace:
+#0 /home/kidiono2/public_html/cnpj360/config/database.php(43): PDOStatement->execute()
+#1 /home/kidiono2/public_html/cnpj360/includes/CNPJ.php(181): Database->execute()
+#2 /home/kidiono2/public_html/cnpj360/includes/CNPJ.php(203): CNPJ->salvarEmpresa()
+#3 /home/kidiono2/public_html/cnpj360/consultar.php(11): CNPJ->consultar()
+#4 {main}
+  thrown in /home/kidiono2/public_html/cnpj360/config/database.php on line 43
+[24-Mar-2026 15:24:48 America/Sao_Paulo] Consulta CNPJ: 10753450000109 - Usuário: 1 - IP: 177.101.128.147
+[24-Mar-2026 15:31:27 America/Sao_Paulo] Consulta CNPJ: 10753450000109 - Usuário: 1 - IP: 177.101.128.147
+[24-Mar-2026 15:38:55 America/Sao_Paulo] Consulta CNPJ: 10753450000109 - Usuário: 1 - IP: 177.101.128.147
+[24-Mar-2026 15:39:45 America/Sao_Paulo] Consulta CNPJ: 03086192000199 - Usuário: 1 - IP: 177.101.128.147
+[25-Mar-2026 08:19:09 America/Sao_Paulo] Consulta CNPJ: 10753450000109 - Visitante - IP: 177.101.128.147
+[25-Mar-2026 08:23:35 America/Sao_Paulo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/kidiono2/public_html/cnpj360/consultar.php on line 4
+[25-Mar-2026 08:23:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class "CNPJ" not found in /home/kidiono2/public_html/cnpj360/consultar.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/kidiono2/public_html/cnpj360/consultar.php on line 27
+[25-Mar-2026 09:14:36 America/Sao_Paulo] Erro na query: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fax' in 'SET'
+[25-Mar-2026 09:14:36 America/Sao_Paulo] SQL: UPDATE empresas SET 
+                        razao_social = :razao_social,
+                        nome_fantasia = :nome_fantasia,
+                        data_abertura = :data_abertura,
+                        situacao_cadastral = :situacao_cadastral,
+                        capital_social = :capital_social,
+                        porte_empresa = :porte_empresa,
+                        cep = :cep,
+                        logradouro = :logradouro,
+                        numero = :numero,
+                        complemento = :complemento,
+                        bairro = :bairro,
+                        cidade = :cidade,
+                        uf = :uf,
+                        telefone1 = :telefone1,
+                        telefone2 = :telefone2,
+                        fax = :fax,
+                        email = :email,
+                        cnae_principal = :cnae_principal,
+                        cnae_secundarios = :cnae_secundarios,
+                        socios_json = :socios_json,
+                        natureza_juridica = :natureza_juridica,
+                        entidade_empregadora = :entidade_empregadora,
+                        opcao_pelo_simples = :opcao_pelo_simples,
+                        data_opcao_simples = :data_opcao_simples,
+                        opcao_pelo_mei = :opcao_pelo_mei,
+                        data_opcao_mei = :data_opcao_mei,
+                        situacao_especial = :situacao_especial,
+                        data_situacao_especial = :data_situacao_especial,
+                        motivo_situacao_cadastral = :motivo_situacao_cadastral,
+                        data_situacao_cadastral = :data_situacao_cadastral,
+                        ultima_consulta_api = NOW(),
+                        updated_at = NOW()
+                        WHERE cnpj = :cnpj
+[25-Mar-2026 09:14:36 America/Sao_Paulo] Params: {":cnpj":"10753450000109",":razao_social":"N & F AGENCIA DE INFORMATICA LTDA",":nome_fantasia":"ONNIX SISTEMAS",":data_abertura":null,":situacao_cadastral":"ATIVA",":capital_social":23000,":porte_empresa":"MICRO EMPRESA",":cep":"85605410",":logradouro":"BOLIVIA",":numero":"1591",":complemento":"",":bairro":"VILA NOVA",":cidade":"FRANCISCO BELTRAO",":uf":"PR",":telefone1":"4635230622",":telefone2":"",":fax":"",":email":"",":cnae_principal":6209100,":cnae_secundarios":"[]",":socios_json":"[{\"nome_socio\":\"FRANCIEL SILVESTRINI\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"tipo_socio\":\"Administrador\",\"data_entrada_sociedade\":\"2009-03-16\",\"cnpj_cpf_do_socio\":\"***347729**\",\"identificador_socio\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"participacao\":null,\"pais\":\"Brasil\",\"representante_legal\":null,\"qualificacao_representante\":null},{\"nome_socio\":\"NEUSA MARIA SALVI DE OLIVEIRA\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"tipo_socio\":\"Administrador\",\"data_entrada_sociedade\":\"2012-11-01\",\"cnpj_cpf_do_socio\":\"***963209**\",\"identificador_socio\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"participacao\":null,\"pais\":\"Brasil\",\"representante_legal\":null,\"qualificacao_representante\":null}]",":natureza_juridica":"Sociedade Empres\u00e1ria Limitada",":entidade_empregadora":null,":opcao_pelo_simples":true,":data_opcao_simples":"2009-03-16",":opcao_pelo_mei":false,":data_opcao_mei":null,":situacao_especial":"",":data_situacao_especial":null,":motivo_situacao_cadastral":0,":data_situacao_cadastral":"2009-03-16"}
+[25-Mar-2026 09:14:36 America/Sao_Paulo] Erro ao salvar empresa: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fax' in 'SET'
+[25-Mar-2026 09:14:36 America/Sao_Paulo] SQL: UPDATE empresas SET 
+                        razao_social = :razao_social,
+                        nome_fantasia = :nome_fantasia,
+                        data_abertura = :data_abertura,
+                        situacao_cadastral = :situacao_cadastral,
+                        capital_social = :capital_social,
+                        porte_empresa = :porte_empresa,
+                        cep = :cep,
+                        logradouro = :logradouro,
+                        numero = :numero,
+                        complemento = :complemento,
+                        bairro = :bairro,
+                        cidade = :cidade,
+                        uf = :uf,
+                        telefone1 = :telefone1,
+                        telefone2 = :telefone2,
+                        fax = :fax,
+                        email = :email,
+                        cnae_principal = :cnae_principal,
+                        cnae_secundarios = :cnae_secundarios,
+                        socios_json = :socios_json,
+                        natureza_juridica = :natureza_juridica,
+                        entidade_empregadora = :entidade_empregadora,
+                        opcao_pelo_simples = :opcao_pelo_simples,
+                        data_opcao_simples = :data_opcao_simples,
+                        opcao_pelo_mei = :opcao_pelo_mei,
+                        data_opcao_mei = :data_opcao_mei,
+                        situacao_especial = :situacao_especial,
+                        data_situacao_especial = :data_situacao_especial,
+                        motivo_situacao_cadastral = :motivo_situacao_cadastral,
+                        data_situacao_cadastral = :data_situacao_cadastral,
+                        ultima_consulta_api = NOW(),
+                        updated_at = NOW()
+                        WHERE cnpj = :cnpj
+[25-Mar-2026 09:14:36 America/Sao_Paulo] Params: {":cnpj":"10753450000109",":razao_social":"N & F AGENCIA DE INFORMATICA LTDA",":nome_fantasia":"ONNIX SISTEMAS",":data_abertura":null,":situacao_cadastral":"ATIVA",":capital_social":23000,":porte_empresa":"MICRO EMPRESA",":cep":"85605410",":logradouro":"BOLIVIA",":numero":"1591",":complemento":"",":bairro":"VILA NOVA",":cidade":"FRANCISCO BELTRAO",":uf":"PR",":telefone1":"4635230622",":telefone2":"",":fax":"",":email":"",":cnae_principal":6209100,":cnae_secundarios":"[]",":socios_json":"[{\"nome_socio\":\"FRANCIEL SILVESTRINI\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"tipo_socio\":\"Administrador\",\"data_entrada_sociedade\":\"2009-03-16\",\"cnpj_cpf_do_socio\":\"***347729**\",\"identificador_socio\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"participacao\":null,\"pais\":\"Brasil\",\"representante_legal\":null,\"qualificacao_representante\":null},{\"nome_socio\":\"NEUSA MARIA SALVI DE OLIVEIRA\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"tipo_socio\":\"Administrador\",\"data_entrada_sociedade\":\"2012-11-01\",\"cnpj_cpf_do_socio\":\"***963209**\",\"identificador_socio\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"participacao\":null,\"pais\":\"Brasil\",\"representante_legal\":null,\"qualificacao_representante\":null}]",":natureza_juridica":"Sociedade Empres\u00e1ria Limitada",":entidade_empregadora":null,":opcao_pelo_simples":true,":data_opcao_simples":"2009-03-16",":opcao_pelo_mei":false,":data_opcao_mei":null,":situacao_especial":"",":data_situacao_especial":null,":motivo_situacao_cadastral":0,":data_situacao_cadastral":"2009-03-16"}
+[25-Mar-2026 09:14:36 America/Sao_Paulo] Erro na consulta: Erro ao salvar dados da empresa: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fax' in 'SET'
+[25-Mar-2026 09:54:09 America/Sao_Paulo] Erro na query: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'natureza_juridica' in 'SET'
+[25-Mar-2026 09:54:09 America/Sao_Paulo] SQL: UPDATE empresas SET 
+                        razao_social = :razao_social,
+                        nome_fantasia = :nome_fantasia,
+                        data_abertura = :data_abertura,
+                        situacao_cadastral = :situacao_cadastral,
+                        capital_social = :capital_social,
+                        porte_empresa = :porte_empresa,
+                        cep = :cep,
+                        logradouro = :logradouro,
+                        numero = :numero,
+                        complemento = :complemento,
+                        bairro = :bairro,
+                        cidade = :cidade,
+                        uf = :uf,
+                        telefone1 = :telefone1,
+                        telefone2 = :telefone2,
+                        fax = :fax,
+                        email = :email,
+                        cnae_principal = :cnae_principal,
+                        cnae_secundarios = :cnae_secundarios,
+                        socios_json = :socios_json,
+                        natureza_juridica = :natureza_juridica,
+                        entidade_empregadora = :entidade_empregadora,
+                        opcao_pelo_simples = :opcao_pelo_simples,
+                        data_opcao_simples = :data_opcao_simples,
+                        opcao_pelo_mei = :opcao_pelo_mei,
+                        data_opcao_mei = :data_opcao_mei,
+                        situacao_especial = :situacao_especial,
+                        data_situacao_especial = :data_situacao_especial,
+                        motivo_situacao_cadastral = :motivo_situacao_cadastral,
+                        data_situacao_cadastral = :data_situacao_cadastral,
+                        ultima_consulta_api = NOW(),
+                        updated_at = NOW()
+                        WHERE cnpj = :cnpj
+[25-Mar-2026 09:54:09 America/Sao_Paulo] Params: {":cnpj":"10753450000109",":razao_social":"N & F AGENCIA DE INFORMATICA LTDA",":nome_fantasia":"ONNIX SISTEMAS",":data_abertura":null,":situacao_cadastral":"ATIVA",":capital_social":23000,":porte_empresa":"MICRO EMPRESA",":cep":"85605410",":logradouro":"BOLIVIA",":numero":"1591",":complemento":"",":bairro":"VILA NOVA",":cidade":"FRANCISCO BELTRAO",":uf":"PR",":telefone1":"4635230622",":telefone2":"",":fax":"",":email":"",":cnae_principal":6209100,":cnae_secundarios":"[]",":socios_json":"[{\"nome_socio\":\"FRANCIEL SILVESTRINI\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"tipo_socio\":\"Administrador\",\"data_entrada_sociedade\":\"2009-03-16\",\"cnpj_cpf_do_socio\":\"***347729**\",\"identificador_socio\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"participacao\":null,\"pais\":\"Brasil\",\"representante_legal\":null,\"qualificacao_representante\":null},{\"nome_socio\":\"NEUSA MARIA SALVI DE OLIVEIRA\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"tipo_socio\":\"Administrador\",\"data_entrada_sociedade\":\"2012-11-01\",\"cnpj_cpf_do_socio\":\"***963209**\",\"identificador_socio\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"participacao\":null,\"pais\":\"Brasil\",\"representante_legal\":null,\"qualificacao_representante\":null}]",":natureza_juridica":"Sociedade Empres\u00e1ria Limitada",":entidade_empregadora":null,":opcao_pelo_simples":true,":data_opcao_simples":"2009-03-16",":opcao_pelo_mei":false,":data_opcao_mei":null,":situacao_especial":"",":data_situacao_especial":null,":motivo_situacao_cadastral":0,":data_situacao_cadastral":"2009-03-16"}
+[25-Mar-2026 09:54:09 America/Sao_Paulo] Erro ao salvar empresa: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'natureza_juridica' in 'SET'
+[25-Mar-2026 09:54:09 America/Sao_Paulo] SQL: UPDATE empresas SET 
+                        razao_social = :razao_social,
+                        nome_fantasia = :nome_fantasia,
+                        data_abertura = :data_abertura,
+                        situacao_cadastral = :situacao_cadastral,
+                        capital_social = :capital_social,
+                        porte_empresa = :porte_empresa,
+                        cep = :cep,
+                        logradouro = :logradouro,
+                        numero = :numero,
+                        complemento = :complemento,
+                        bairro = :bairro,
+                        cidade = :cidade,
+                        uf = :uf,
+                        telefone1 = :telefone1,
+                        telefone2 = :telefone2,
+                        fax = :fax,
+                        email = :email,
+                        cnae_principal = :cnae_principal,
+                        cnae_secundarios = :cnae_secundarios,
+                        socios_json = :socios_json,
+                        natureza_juridica = :natureza_juridica,
+                        entidade_empregadora = :entidade_empregadora,
+                        opcao_pelo_simples = :opcao_pelo_simples,
+                        data_opcao_simples = :data_opcao_simples,
+                        opcao_pelo_mei = :opcao_pelo_mei,
+                        data_opcao_mei = :data_opcao_mei,
+                        situacao_especial = :situacao_especial,
+                        data_situacao_especial = :data_situacao_especial,
+                        motivo_situacao_cadastral = :motivo_situacao_cadastral,
+                        data_situacao_cadastral = :data_situacao_cadastral,
+                        ultima_consulta_api = NOW(),
+                        updated_at = NOW()
+                        WHERE cnpj = :cnpj
+[25-Mar-2026 09:54:09 America/Sao_Paulo] Params: {":cnpj":"10753450000109",":razao_social":"N & F AGENCIA DE INFORMATICA LTDA",":nome_fantasia":"ONNIX SISTEMAS",":data_abertura":null,":situacao_cadastral":"ATIVA",":capital_social":23000,":porte_empresa":"MICRO EMPRESA",":cep":"85605410",":logradouro":"BOLIVIA",":numero":"1591",":complemento":"",":bairro":"VILA NOVA",":cidade":"FRANCISCO BELTRAO",":uf":"PR",":telefone1":"4635230622",":telefone2":"",":fax":"",":email":"",":cnae_principal":6209100,":cnae_secundarios":"[]",":socios_json":"[{\"nome_socio\":\"FRANCIEL SILVESTRINI\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"tipo_socio\":\"Administrador\",\"data_entrada_sociedade\":\"2009-03-16\",\"cnpj_cpf_do_socio\":\"***347729**\",\"identificador_socio\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"participacao\":null,\"pais\":\"Brasil\",\"representante_legal\":null,\"qualificacao_representante\":null},{\"nome_socio\":\"NEUSA MARIA SALVI DE OLIVEIRA\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"tipo_socio\":\"Administrador\",\"data_entrada_sociedade\":\"2012-11-01\",\"cnpj_cpf_do_socio\":\"***963209**\",\"identificador_socio\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"participacao\":null,\"pais\":\"Brasil\",\"representante_legal\":null,\"qualificacao_representante\":null}]",":natureza_juridica":"Sociedade Empres\u00e1ria Limitada",":entidade_empregadora":null,":opcao_pelo_simples":true,":data_opcao_simples":"2009-03-16",":opcao_pelo_mei":false,":data_opcao_mei":null,":situacao_especial":"",":data_situacao_especial":null,":motivo_situacao_cadastral":0,":data_situacao_cadastral":"2009-03-16"}
+[25-Mar-2026 09:54:09 America/Sao_Paulo] Erro na consulta: Erro ao salvar dados da empresa: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'natureza_juridica' in 'SET'
+[25-Mar-2026 09:56:25 America/Sao_Paulo] Erro na query: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kidiono2_cnpj360`.`empresas`, CONSTRAINT `empresas_ibfk_2` FOREIGN KEY (`natureza_juridica_codigo`) REFERENCES `natureza_juridica` (`codigo`))
+[25-Mar-2026 09:56:25 America/Sao_Paulo] SQL: UPDATE empresas SET 
+                        razao_social = :razao_social,
+                        nome_fantasia = :nome_fantasia,
+                        data_abertura = :data_abertura,
+                        situacao_cadastral = :situacao_cadastral,
+                        data_situacao = :data_situacao,
+                        capital_social = :capital_social,
+                        porte_empresa = :porte_empresa,
+                        natureza_juridica_codigo = :natureza_juridica_codigo,
+                        cep = :cep,
+                        logradouro = :logradouro,
+                        numero = :numero,
+                        complemento = :complemento,
+                        bairro = :bairro,
+                        cidade = :cidade,
+                        uf = :uf,
+                        telefone1 = :telefone1,
+                        telefone2 = :telefone2,
+                        email = :email,
+                        cnae_principal = :cnae_principal,
+                        cnae_secundarios = :cnae_secundarios,
+                        socios_json = :socios_json,
+                        ultima_consulta_api = :ultima_consulta_api,
+                        dados_completos = :dados_completos,
+                        updated_at = NOW()
+                        WHERE cnpj = :cnpj
+[25-Mar-2026 09:56:25 America/Sao_Paulo] Params: {":cnpj":"10753450000109",":razao_social":"N & F AGENCIA DE INFORMATICA LTDA",":nome_fantasia":"ONNIX SISTEMAS",":data_abertura":null,":situacao_cadastral":"ATIVA",":data_situacao":"2009-03-16",":capital_social":23000,":porte_empresa":"MICRO EMPRESA",":natureza_juridica_codigo":"Sociedade Empres\u00e1ria Limitada",":cep":"85605410",":logradouro":"BOLIVIA",":numero":"1591",":complemento":"",":bairro":"VILA NOVA",":cidade":"FRANCISCO BELTRAO",":uf":"PR",":telefone1":"4635230622",":telefone2":"",":email":"",":cnae_principal":6209100,":cnae_secundarios":"[]",":socios_json":"[{\"nome_socio\":\"FRANCIEL SILVESTRINI\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"tipo_socio\":\"S\\u00f3cio-Administrador\",\"data_entrada_sociedade\":\"2009-03-16\",\"cnpj_cpf_do_socio\":\"***347729**\",\"identificador_socio\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"participacao\":null},{\"nome_socio\":\"NEUSA MARIA SALVI DE OLIVEIRA\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"tipo_socio\":\"S\\u00f3cio-Administrador\",\"data_entrada_sociedade\":\"2012-11-01\",\"cnpj_cpf_do_socio\":\"***963209**\",\"identificador_socio\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"participacao\":null}]",":ultima_consulta_api":"2026-03-25 09:56:25",":dados_completos":"{\"uf\":\"PR\",\"cep\":\"85605410\",\"qsa\":[{\"pais\":null,\"nome_socio\":\"FRANCIEL SILVESTRINI\",\"codigo_pais\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"cnpj_cpf_do_socio\":\"***347729**\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"codigo_faixa_etaria\":5,\"data_entrada_sociedade\":\"2009-03-16\",\"identificador_de_socio\":2,\"cpf_representante_legal\":\"***000000**\",\"nome_representante_legal\":\"\",\"codigo_qualificacao_socio\":49,\"qualificacao_representante_legal\":\"N\\u00e3o informada\",\"codigo_qualificacao_representante_legal\":0},{\"pais\":null,\"nome_socio\":\"NEUSA MARIA SALVI DE OLIVEIRA\",\"codigo_pais\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"cnpj_cpf_do_socio\":\"***963209**\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"codigo_faixa_etaria\":5,\"data_entrada_sociedade\":\"2012-11-01\",\"identificador_de_socio\":2,\"cpf_representante_legal\":\"***000000**\",\"nome_representante_legal\":\"\",\"codigo_qualificacao_socio\":49,\"qualificacao_representante_legal\":\"N\\u00e3o informada\",\"codigo_qualificacao_representante_legal\":0}],\"cnpj\":\"10753450000109\",\"pais\":null,\"email\":null,\"porte\":\"MICRO EMPRESA\",\"bairro\":\"VILA NOVA\",\"numero\":\"1591\",\"ddd_fax\":\"\",\"municipio\":\"FRANCISCO BELTRAO\",\"logradouro\":\"BOLIVIA\",\"cnae_fiscal\":6209100,\"codigo_pais\":null,\"complemento\":\"\",\"codigo_porte\":1,\"razao_social\":\"N & F AGENCIA DE INFORMATICA LTDA\",\"nome_fantasia\":\"ONNIX SISTEMAS\",\"capital_social\":23000,\"ddd_telefone_1\":\"4635230622\",\"ddd_telefone_2\":\"\",\"opcao_pelo_mei\":false,\"codigo_municipio\":7565,\"cnaes_secundarios\":[],\"natureza_juridica\":\"Sociedade Empres\\u00e1ria Limitada\",\"regime_tributario\":[],\"situacao_especial\":\"\",\"opcao_pelo_simples\":true,\"situacao_cadastral\":2,\"data_opcao_pelo_mei\":null,\"data_exclusao_do_mei\":null,\"cnae_fiscal_descricao\":\"Suporte t\\u00e9cnico, manuten\\u00e7\\u00e3o e outros servi\\u00e7os em tecnologia da informa\\u00e7\\u00e3o\",\"codigo_municipio_ibge\":4108403,\"data_inicio_atividade\":\"2009-03-16\",\"data_situacao_especial\":null,\"data_opcao_pelo_simples\":\"2009-03-16\",\"data_situacao_cadastral\":\"2009-03-16\",\"nome_cidade_no_exterior\":\"\",\"codigo_natureza_juridica\":2062,\"data_exclusao_do_simples\":null,\"motivo_situacao_cadastral\":0,\"ente_federativo_responsavel\":\"\",\"identificador_matriz_filial\":1,\"qualificacao_do_responsavel\":49,\"descricao_situacao_cadastral\":\"ATIVA\",\"descricao_tipo_de_logradouro\":\"RUA\",\"descricao_motivo_situacao_cadastral\":\"SEM MOTIVO\",\"descricao_identificador_matriz_filial\":\"MATRIZ\"}"}
+[25-Mar-2026 09:56:25 America/Sao_Paulo] Erro ao salvar empresa: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kidiono2_cnpj360`.`empresas`, CONSTRAINT `empresas_ibfk_2` FOREIGN KEY (`natureza_juridica_codigo`) REFERENCES `natureza_juridica` (`codigo`))
+[25-Mar-2026 09:56:25 America/Sao_Paulo] Erro na consulta: Erro ao salvar dados da empresa: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kidiono2_cnpj360`.`empresas`, CONSTRAINT `empresas_ibfk_2` FOREIGN KEY (`natureza_juridica_codigo`) REFERENCES `natureza_juridica` (`codigo`))
+[25-Mar-2026 10:04:29 America/Sao_Paulo] Erro na query: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kidiono2_cnpj360`.`empresas`, CONSTRAINT `empresas_ibfk_2` FOREIGN KEY (`natureza_juridica_codigo`) REFERENCES `natureza_juridica` (`codigo`))
+[25-Mar-2026 10:04:29 America/Sao_Paulo] SQL: UPDATE empresas SET 
+                        razao_social = :razao_social,
+                        nome_fantasia = :nome_fantasia,
+                        data_abertura = :data_abertura,
+                        situacao_cadastral = :situacao_cadastral,
+                        data_situacao = :data_situacao,
+                        capital_social = :capital_social,
+                        porte_empresa = :porte_empresa,
+                        natureza_juridica_codigo = :natureza_juridica_codigo,
+                        cep = :cep,
+                        logradouro = :logradouro,
+                        numero = :numero,
+                        complemento = :complemento,
+                        bairro = :bairro,
+                        cidade = :cidade,
+                        uf = :uf,
+                        telefone1 = :telefone1,
+                        telefone2 = :telefone2,
+                        email = :email,
+                        cnae_principal = :cnae_principal,
+                        cnae_secundarios = :cnae_secundarios,
+                        socios_json = :socios_json,
+                        ultima_consulta_api = :ultima_consulta_api,
+                        dados_completos = :dados_completos,
+                        updated_at = NOW()
+                        WHERE cnpj = :cnpj
+[25-Mar-2026 10:04:29 America/Sao_Paulo] Params: {":cnpj":"10753450000109",":razao_social":"N & F AGENCIA DE INFORMATICA LTDA",":nome_fantasia":"ONNIX SISTEMAS",":data_abertura":null,":situacao_cadastral":"ATIVA",":data_situacao":"2009-03-16",":capital_social":23000,":porte_empresa":"MICRO EMPRESA",":natureza_juridica_codigo":"Sociedade Empres\u00e1ria Limitada",":cep":"85605410",":logradouro":"BOLIVIA",":numero":"1591",":complemento":"",":bairro":"VILA NOVA",":cidade":"FRANCISCO BELTRAO",":uf":"PR",":telefone1":"4635230622",":telefone2":"",":email":"",":cnae_principal":6209100,":cnae_secundarios":"[]",":socios_json":"[{\"nome_socio\":\"FRANCIEL SILVESTRINI\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"tipo_socio\":\"S\\u00f3cio-Administrador\",\"data_entrada_sociedade\":\"2009-03-16\",\"cnpj_cpf_do_socio\":\"***347729**\",\"identificador_socio\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"participacao\":null},{\"nome_socio\":\"NEUSA MARIA SALVI DE OLIVEIRA\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"tipo_socio\":\"S\\u00f3cio-Administrador\",\"data_entrada_sociedade\":\"2012-11-01\",\"cnpj_cpf_do_socio\":\"***963209**\",\"identificador_socio\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"participacao\":null}]",":ultima_consulta_api":"2026-03-25 10:04:29",":dados_completos":"{\"uf\":\"PR\",\"cep\":\"85605410\",\"qsa\":[{\"pais\":null,\"nome_socio\":\"FRANCIEL SILVESTRINI\",\"codigo_pais\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"cnpj_cpf_do_socio\":\"***347729**\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"codigo_faixa_etaria\":5,\"data_entrada_sociedade\":\"2009-03-16\",\"identificador_de_socio\":2,\"cpf_representante_legal\":\"***000000**\",\"nome_representante_legal\":\"\",\"codigo_qualificacao_socio\":49,\"qualificacao_representante_legal\":\"N\\u00e3o informada\",\"codigo_qualificacao_representante_legal\":0},{\"pais\":null,\"nome_socio\":\"NEUSA MARIA SALVI DE OLIVEIRA\",\"codigo_pais\":null,\"faixa_etaria\":\"Entre 41 a 50 anos\",\"cnpj_cpf_do_socio\":\"***963209**\",\"qualificacao_socio\":\"S\\u00f3cio-Administrador\",\"codigo_faixa_etaria\":5,\"data_entrada_sociedade\":\"2012-11-01\",\"identificador_de_socio\":2,\"cpf_representante_legal\":\"***000000**\",\"nome_representante_legal\":\"\",\"codigo_qualificacao_socio\":49,\"qualificacao_representante_legal\":\"N\\u00e3o informada\",\"codigo_qualificacao_representante_legal\":0}],\"cnpj\":\"10753450000109\",\"pais\":null,\"email\":null,\"porte\":\"MICRO EMPRESA\",\"bairro\":\"VILA NOVA\",\"numero\":\"1591\",\"ddd_fax\":\"\",\"municipio\":\"FRANCISCO BELTRAO\",\"logradouro\":\"BOLIVIA\",\"cnae_fiscal\":6209100,\"codigo_pais\":null,\"complemento\":\"\",\"codigo_porte\":1,\"razao_social\":\"N & F AGENCIA DE INFORMATICA LTDA\",\"nome_fantasia\":\"ONNIX SISTEMAS\",\"capital_social\":23000,\"ddd_telefone_1\":\"4635230622\",\"ddd_telefone_2\":\"\",\"opcao_pelo_mei\":false,\"codigo_municipio\":7565,\"cnaes_secundarios\":[],\"natureza_juridica\":\"Sociedade Empres\\u00e1ria Limitada\",\"regime_tributario\":[],\"situacao_especial\":\"\",\"opcao_pelo_simples\":true,\"situacao_cadastral\":2,\"data_opcao_pelo_mei\":null,\"data_exclusao_do_mei\":null,\"cnae_fiscal_descricao\":\"Suporte t\\u00e9cnico, manuten\\u00e7\\u00e3o e outros servi\\u00e7os em tecnologia da informa\\u00e7\\u00e3o\",\"codigo_municipio_ibge\":4108403,\"data_inicio_atividade\":\"2009-03-16\",\"data_situacao_especial\":null,\"data_opcao_pelo_simples\":\"2009-03-16\",\"data_situacao_cadastral\":\"2009-03-16\",\"nome_cidade_no_exterior\":\"\",\"codigo_natureza_juridica\":2062,\"data_exclusao_do_simples\":null,\"motivo_situacao_cadastral\":0,\"ente_federativo_responsavel\":\"\",\"identificador_matriz_filial\":1,\"qualificacao_do_responsavel\":49,\"descricao_situacao_cadastral\":\"ATIVA\",\"descricao_tipo_de_logradouro\":\"RUA\",\"descricao_motivo_situacao_cadastral\":\"SEM MOTIVO\",\"descricao_identificador_matriz_filial\":\"MATRIZ\"}"}
+[25-Mar-2026 10:04:29 America/Sao_Paulo] Erro ao salvar empresa: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kidiono2_cnpj360`.`empresas`, CONSTRAINT `empresas_ibfk_2` FOREIGN KEY (`natureza_juridica_codigo`) REFERENCES `natureza_juridica` (`codigo`))
+[25-Mar-2026 10:04:29 America/Sao_Paulo] Erro na consulta: Erro ao salvar dados da empresa: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kidiono2_cnpj360`.`empresas`, CONSTRAINT `empresas_ibfk_2` FOREIGN KEY (`natureza_juridica_codigo`) REFERENCES `natureza_juridica` (`codigo`))
+[25-Mar-2026 10:40:14 America/Sao_Paulo] Erro cURL: Failed to connect to brasilapi.com.br port 443 after 0 ms: Could not connect to server
+[25-Mar-2026 10:40:37 America/Sao_Paulo] Erro cURL: Failed to connect to brasilapi.com.br port 443 after 0 ms: Could not connect to server
+[25-Mar-2026 11:47:58 America/Sao_Paulo] Normalizando dados da fonte: BrasilAPI
+[25-Mar-2026 11:47:58 America/Sao_Paulo] Consulta CNPJ: 10753450000109 - Visitante - IP: 177.101.128.147
+[25-Mar-2026 11:55:37 America/Sao_Paulo] 🔄 Normalizando dados da fonte: BrasilAPI
+[25-Mar-2026 11:55:37 America/Sao_Paulo] Erro na query: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Soci' for key 'PRIMARY'
+[25-Mar-2026 11:55:37 America/Sao_Paulo] SQL: INSERT INTO natureza_juridica (codigo, descricao, permite_simples, created_at) 
+                        VALUES (:codigo, :descricao, 0, NOW())
+[25-Mar-2026 11:55:37 America/Sao_Paulo] Params: {":codigo":"Sociedade Empres\u00e1ria Limitada",":descricao":"Natureza Jur\u00eddica Sociedade Empres\u00e1ria Limitada - Aguardando descri\u00e7\u00e3o"}
+[25-Mar-2026 11:55:37 America/Sao_Paulo] Erro ao validar natureza jurídica: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Soci' for key 'PRIMARY'
+[25-Mar-2026 11:55:37 America/Sao_Paulo] ✅ Consulta realizada com sucesso para CNPJ: 10753450000109 via BrasilAPI
+[25-Mar-2026 11:55:37 America/Sao_Paulo] Consulta CNPJ: 10753450000109 - Visitante - IP: 177.101.128.147
+[25-Mar-2026 13:37:03 America/Sao_Paulo] PHP Deprecated:  Creation of dynamic property CNPJ::$cnpj_atual is deprecated in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 942
+[25-Mar-2026 13:37:03 America/Sao_Paulo] [2026-03-25 13:37:03] [INFO] Dados encontrados no banco local para CNPJ: 10753450000109
+[25-Mar-2026 13:37:03 America/Sao_Paulo] Consulta CNPJ: 10753450000109 - Visitante - IP: 177.101.128.147
+[25-Mar-2026 13:53:11 America/Sao_Paulo] PHP Deprecated:  Creation of dynamic property CNPJ::$cnpj_atual is deprecated in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 942
+[25-Mar-2026 13:53:12 America/Sao_Paulo] [2026-03-25 13:53:12] [INFO] Normalizando dados da fonte: BrasilAPI
+[25-Mar-2026 13:53:12 America/Sao_Paulo] Erro na query: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Soci' for key 'PRIMARY'
+[25-Mar-2026 13:53:12 America/Sao_Paulo] SQL: INSERT INTO natureza_juridica (codigo, descricao, permite_simples, created_at) 
+                        VALUES (:codigo, :descricao, 0, NOW())
+[25-Mar-2026 13:53:12 America/Sao_Paulo] Params: {":codigo":"Sociedade Empres\u00e1ria Limitada",":descricao":"Natureza Jur\u00eddica Sociedade Empres\u00e1ria Limitada - Aguardando descri\u00e7\u00e3o"}
+[25-Mar-2026 13:53:12 America/Sao_Paulo] [2026-03-25 13:53:12] [ERROR] Erro ao validar natureza jurídica: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Soci' for key 'PRIMARY'
+[25-Mar-2026 13:53:12 America/Sao_Paulo] Erro na query: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kidiono2_cnpj360.logs_auditoria' doesn't exist
+[25-Mar-2026 13:53:12 America/Sao_Paulo] SQL: INSERT INTO logs_auditoria (usuario_id, acao, detalhes, ip, created_at) 
+                    VALUES (:usuario_id, :acao, :detalhes, :ip, NOW())
+[25-Mar-2026 13:53:12 America/Sao_Paulo] Params: {":usuario_id":0,":acao":"consulta_cnpj_error",":detalhes":"Erro ao validar natureza jur\u00eddica: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Soci' for key 'PRIMARY'",":ip":"177.101.128.147"}
+[25-Mar-2026 13:53:12 America/Sao_Paulo] [2026-03-25 13:53:12] [INFO] Nova empresa inserida: 13345309000165
+[25-Mar-2026 13:53:12 America/Sao_Paulo] [2026-03-25 13:53:12] [SUCCESS] Consulta realizada com sucesso para CNPJ: 13345309000165 via BrasilAPI
+[25-Mar-2026 13:53:12 America/Sao_Paulo] Consulta CNPJ: 13345309000165 - Visitante - IP: 177.101.128.147
+[25-Mar-2026 14:21:56 America/Sao_Paulo] PHP Deprecated:  Creation of dynamic property CNPJ::$cnpj_atual is deprecated in /home/kidiono2/public_html/cnpj360/includes/CNPJ.php on line 942
+[25-Mar-2026 14:21:56 America/Sao_Paulo] [2026-03-25 14:21:56] [INFO] Dados encontrados no banco local para CNPJ: 10753450000109
+[25-Mar-2026 14:21:56 America/Sao_Paulo] Consulta CNPJ: 10753450000109 - IP: 177.101.128.147
+[25-Mar-2026 14:40:39 America/Sao_Paulo] Erro na query: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kidiono2_cnpj360.estados' doesn't exist
+[25-Mar-2026 14:40:39 America/Sao_Paulo] SQL: SELECT uf, nome, regiao, capital FROM estados
+[25-Mar-2026 14:40:39 America/Sao_Paulo] Params: []
+[25-Mar-2026 14:40:39 America/Sao_Paulo] Consulta CNPJ: 10753450000109 - IP: 177.101.128.147
+[25-Mar-2026 15:12:07 America/Sao_Paulo] PHP Parse error:  Unclosed '{' on line 304 does not match ']' in /home/kidiono2/public_html/cnpj360/consultar.php on line 319
+[25-Mar-2026 15:12:43 America/Sao_Paulo] PHP Parse error:  Unclosed '{' on line 306 does not match ']' in /home/kidiono2/public_html/cnpj360/consultar.php on line 321
+[25-Mar-2026 15:12:47 America/Sao_Paulo] PHP Parse error:  Unclosed '{' on line 306 does not match ']' in /home/kidiono2/public_html/cnpj360/consultar.php on line 321
+[26-Mar-2026 08:13:18 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected identifier "d", expecting "," or ";" in /home/kidiono2/public_html/cnpj360/consultar.php on line 501
