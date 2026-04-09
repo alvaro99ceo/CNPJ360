@@ -1,0 +1,17 @@
+RewriteEngine On
+RewriteBase /api/
+
+# Redirecionar todas as requisições para index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# Bloquear acesso a arquivos sensíveis
+<FilesMatch "\.(ini|log|sql|json)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Cabeçalhos de segurança
+Header set X-Content-Type-Options "nosniff"
+Header set X-Frame-Options "DENY"
