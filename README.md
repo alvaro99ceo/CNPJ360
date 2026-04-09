@@ -25,7 +25,6 @@ Sistema completo para consulta de CNPJs, análise tributária, enquadramento Sim
 | `cnaes` | Classificação Nacional de Atividades Econômicas |
 | `usuarios` | Usuários do sistema (assinantes, administradores) |
 | `assinaturas` | Planos e períodos de assinatura |
-| `planos` | Configurações dos planos disponíveis |
 | `api_keys` | Chaves de acesso para API externa |
 | `cache_cnpj` | Cache de consultas para evitar chamadas repetidas |
 | `historico_consultas` | Log de todas as consultas realizadas |
